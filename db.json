@@ -1,9 +1,9 @@
 {
 "account":[	{
-		"acctNumber" : "1001",
+		"acctNumber" : 1001,
 		"status" : "Y"
 	},{
-		"acctNumber" : "1002",
+		"acctNumber" : 1002,
 		"status" : "N"
 	}
 	]
