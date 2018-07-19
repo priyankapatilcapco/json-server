@@ -2,15 +2,11 @@
 "account":[	{
 		"id" : 1,
 		"acctNumber":"1001",
-		 "status": {
-              "overallStatus": "S"
-            }
+		 "status": "S"
 	},{
 		"id" : 2,
 		"acctNumber":"1002",
-		 "status": {
-              "overallStatus": "S"
-            }
+		  "status": "S"
 	}
 	]
 }
